@@ -21,6 +21,33 @@ header {
   cursor: text;
 }
 
+#search-bar-section {
+  float: right;
+  padding-right: 4em;
+  cursor: text;
+  border-radius: 5px;
+  border: none;
+  background-color: #D4D4D4;
+  font-family: 'Open Sans';
+  font-weight: bold;
+}
+
+#search-bar-section ::-webkit-input-placeholder {
+  font-weight: lighter;
+}
+
+#search-bar-section :-ms-input-placeholder {
+  font-weight: lighter;
+}
+
+#search-bar-section ::-ms-input-placeholder {
+  font-weight: lighter;
+}
+
+#search-bar-section ::placeholder {
+  font-weight: lighter;
+}
+
 #user-profile {
   float: right;
   width: 55px;
