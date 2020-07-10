@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="437" height="287.63" viewBox="0 0 437 287.63">
+  <defs>
+    <filter id="money-card" x="0" y="0" width="437" height="287.63" filterUnits="userSpaceOnUse">
+      <feOffset dy="12" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="12" result="blur"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_47" data-name="Group 47" transform="translate(-1509 -35)">
+    <g transform="matrix(1, 0, 0, 1, 1509, 35)" filter="url(#money-card)">
+      <rect id="money-card-2" data-name="money-card" width="365" height="215.631" rx="29" transform="translate(36 24)" fill="#fff"/>
+    </g>
+    <g id="Group_8" data-name="Group 8" transform="translate(1576 85)">
+      <text id="Current_Orders" data-name="Current Orders" transform="translate(0 30)" fill="#868686" font-size="28" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="0" y="0">Current Orders</tspan></text>
+      <text id="_13" data-name="13" transform="translate(0 70)" fill="#ffbc00" font-size="30" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="0" y="0">13</tspan></text>
+    </g>
+    <text id="Veg_Supreme_Pizza" data-name="Veg Supreme Pizza" transform="translate(1576 185)" font-size="19" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="0" y="0">Veg Supreme Pizza</tspan></text>
+    <text id="Choco_Lava_Cake" data-name="Choco Lava Cake" transform="translate(1576 218)" font-size="19" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="0" y="0">Choco Lava Cake</tspan></text>
+    <text id="_3" data-name="3" transform="translate(1837.686 185)" fill="#848484" font-size="19" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="0" y="0">3</tspan></text>
+    <text id="_4" data-name="4" transform="translate(1837.686 218)" fill="#848484" font-size="19" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="0" y="0">4</tspan></text>
+    <text id="see_more..." data-name="see more..." transform="translate(1576 247)" font-size="15" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="0" y="0">see more...</tspan></text>
+  </g>
+</svg>

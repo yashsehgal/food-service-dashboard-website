@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="425" height="379.5" viewBox="0 0 425 379.5">
+  <defs>
+    <filter id="Rectangle_13" x="0" y="0" width="425" height="379.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_15" x="43" y="76" width="338" height="228.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-2"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_9" x="43" y="146.623" width="338.148" height="157.877" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-3"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_23" x="132" y="102" width="127" height="91" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-4"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_70" data-name="Group 70" transform="translate(-809 -100)">
+    <g transform="matrix(1, 0, 0, 1, 809, 100)" filter="url(#Rectangle_13)">
+      <rect id="Rectangle_13-2" data-name="Rectangle 13" width="365" height="319.5" rx="21" transform="translate(30 20)" fill="#fff"/>
+    </g>
+    <text id="Weekly_Statistics" data-name="Weekly Statistics" transform="translate(867 168)" fill="#9672f8" font-size="24" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="0" y="0">Weekly Statistics</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 809, 100)" filter="url(#Rectangle_15)">
+      <rect id="Rectangle_15-2" data-name="Rectangle 15" width="278" height="168.5" rx="21" transform="translate(73 96)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 809, 100)" filter="url(#Path_9)">
+      <path id="Path_9-2" data-name="Path 9" d="M73.079-30.109c39.257-12.024,73.608,12.792,111.051,15.561s55.172,4.6,78.16,19.1S232.719,2.208,257,2.208,278,9.4,278,21V43.5a21,21,0,0,1-21,21H21a21,21,0,0,1-21-21V21C0,9.4,33.822-18.084,73.079-30.109Z" transform="translate(73 200)" fill="#4500ff"/>
+    </g>
+    <text id="MON" transform="translate(898 379)" fill="#444" font-size="10" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="0" y="0">MON</tspan></text>
+    <text id="TUE" transform="translate(945 379)" fill="#444" font-size="10" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="0" y="0">TUE</tspan></text>
+    <text id="WED" transform="translate(986 379)" fill="#444" font-size="10" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="0" y="0">WED</tspan></text>
+    <text id="THU" transform="translate(1027 379)" fill="#444" font-size="10" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="0" y="0">THU</tspan></text>
+    <text id="FRI" transform="translate(1073 379)" fill="#444" font-size="10" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="0" y="0">FRI</tspan></text>
+    <text id="SAT" transform="translate(1114 379)" fill="#444" font-size="10" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="0" y="0">SAT</tspan></text>
+    <line id="Line_15" data-name="Line 15" y2="112" transform="translate(974.5 252.5)" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="5"/>
+    <g id="Group_40" data-name="Group 40" transform="translate(-137 20)">
+      <g transform="matrix(1, 0, 0, 1, 946, 80)" filter="url(#Rectangle_23)">
+        <rect id="Rectangle_23-2" data-name="Rectangle 23" width="67" height="31" rx="7" transform="translate(162 122)" fill="#fff"/>
+      </g>
+      <text id="Max_Profit" data-name="Max Profit" transform="translate(1114 216)" fill="#444" font-size="8" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="0" y="0">Max Profit</tspan></text>
+      <text id="_2400" data-name="$2400" transform="translate(1114 228)" fill="#4500ff" font-size="10" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="0" y="0">$2400</tspan></text>
+    </g>
+  </g>
+</svg>

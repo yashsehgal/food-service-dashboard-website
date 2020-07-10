@@ -1,0 +1,133 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1083" height="637.5" viewBox="0 0 1083 637.5">
+  <defs>
+    <filter id="Rectangle_20" x="0" y="0" width="1083" height="637.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_21" x="150" y="71" width="197" height="98.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-2"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_21-2" x="326" y="71" width="197" height="98.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-3"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_21-3" x="502" y="71" width="197" height="98.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-4"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_21-4" x="678" y="71" width="197" height="98.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-5"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_22" x="119" y="134" width="874" height="423.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-6"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_10" x="119" y="272.847" width="874.349" height="284.653" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-7"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_11" x="119" y="276.92" width="874.349" height="280.58" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-8"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_49" data-name="Group 49" transform="translate(-837 -449)">
+    <g transform="matrix(1, 0, 0, 1, 837, 449)" filter="url(#Rectangle_20)">
+      <rect id="Rectangle_20-2" data-name="Rectangle 20" width="1023" height="577.5" rx="21" transform="translate(30 20)" fill="#fff"/>
+    </g>
+    <g id="Group_30" data-name="Group 30" transform="translate(38 493)">
+      <text id="sort_by" data-name="sort by" transform="translate(890 74)" font-size="21" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="0" y="0">sort by</tspan></text>
+    </g>
+    <g id="Group_31" data-name="Group 31" transform="translate(160 493)">
+      <g transform="matrix(1, 0, 0, 1, 677, -44)" filter="url(#Rectangle_21)">
+        <rect id="Rectangle_21-5" data-name="Rectangle 21" width="137" height="38.5" rx="19.25" transform="translate(180 91)" fill="#a9a9a9"/>
+      </g>
+      <text id="Day" transform="translate(906 74)" fill="#fff" font-size="21" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="0" y="0">Day</tspan></text>
+    </g>
+    <g id="Group_32" data-name="Group 32" transform="translate(336 493)">
+      <g transform="matrix(1, 0, 0, 1, 501, -44)" filter="url(#Rectangle_21-2)">
+        <rect id="Rectangle_21-6" data-name="Rectangle 21" width="137" height="38.5" rx="19.25" transform="translate(356 91)" fill="#a9a9a9"/>
+      </g>
+      <text id="week" transform="translate(899 74)" fill="#fff" font-size="21" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="0" y="0">week</tspan></text>
+    </g>
+    <g id="Group_33" data-name="Group 33" transform="translate(512 493)">
+      <g transform="matrix(1, 0, 0, 1, 325, -44)" filter="url(#Rectangle_21-3)">
+        <rect id="Rectangle_21-7" data-name="Rectangle 21" width="137" height="38.5" rx="19.25" transform="translate(532 91)" fill="#9672f8"/>
+      </g>
+      <text id="month" transform="translate(892 74)" fill="#fff" font-size="21" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="0" y="0">month</tspan></text>
+    </g>
+    <g id="Group_34" data-name="Group 34" transform="translate(688 493)">
+      <g transform="matrix(1, 0, 0, 1, 149, -44)" filter="url(#Rectangle_21-4)">
+        <rect id="Rectangle_21-8" data-name="Rectangle 21" width="137" height="38.5" rx="19.25" transform="translate(708 91)" fill="#a9a9a9"/>
+      </g>
+      <text id="year" transform="translate(903 74)" fill="#fff" font-size="21" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="0" y="0">year</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 837, 449)" filter="url(#Rectangle_22)">
+      <rect id="Rectangle_22-2" data-name="Rectangle 22" width="814" height="363.5" rx="21" transform="translate(149 154)" fill="#fff"/>
+    </g>
+    <text id="JAN" transform="translate(1012 1000)" fill="#444" font-size="16" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="0" y="0">JAN</tspan></text>
+    <text id="FEB" transform="translate(1126.92 1000)" fill="#444" font-size="16" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="0" y="0">FEB</tspan></text>
+    <text id="MAR" transform="translate(1226.529 1000)" fill="#444" font-size="16" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="0" y="0">MAR</tspan></text>
+    <text id="APR" transform="translate(1332.66 1000)" fill="#444" font-size="16" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="0" y="0">APR</tspan></text>
+    <text id="MAY" transform="translate(1439.108 1000)" fill="#444" font-size="16" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="0" y="0">MAY</tspan></text>
+    <text id="JUNE" transform="translate(1538.422 1000)" fill="#444" font-size="16" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="0" y="0">JUNE</tspan></text>
+    <g id="Group_35" data-name="Group 35" transform="translate(0 868)">
+      <text id="_100k" data-name="100k" transform="translate(912 74)" font-size="21" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="0" y="0">100k</tspan></text>
+    </g>
+    <text id="JULY" transform="translate(1640.422 1000)" fill="#444" font-size="16" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="0" y="0">JULY</tspan></text>
+    <text id="AUG" transform="translate(1739.422 1000)" fill="#444" font-size="16" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="0" y="0">AUG</tspan></text>
+    <g id="Group_36" data-name="Group 36" transform="translate(0 785)">
+      <text id="_300k" data-name="300k" transform="translate(912 74)" font-size="21" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="0" y="0">300k</tspan></text>
+    </g>
+    <text id="_500k" data-name="500k" transform="translate(912 776)" font-size="21" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="0" y="0">500k</tspan></text>
+    <text id="_700k" data-name="700k" transform="translate(912 693)" font-size="21" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="0" y="0">700k</tspan></text>
+    <g id="axis-lines">
+      <line id="Line_17" data-name="Line 17" x2="766" transform="translate(1010.5 647.5)" fill="none" stroke="#707070" stroke-width="0.4"/>
+      <line id="Line_18" data-name="Line 18" x2="766" transform="translate(1010.5 671.5)" fill="none" stroke="#707070" stroke-width="0.4"/>
+      <line id="Line_19" data-name="Line 19" x2="766" transform="translate(1010.5 695.5)" fill="none" stroke="#707070" stroke-width="0.4"/>
+      <line id="Line_20" data-name="Line 20" x2="766" transform="translate(1010.5 719.5)" fill="none" stroke="#707070" stroke-width="0.4"/>
+      <line id="Line_21" data-name="Line 21" x2="766" transform="translate(1010.5 743.5)" fill="none" stroke="#707070" stroke-width="0.4"/>
+      <line id="Line_22" data-name="Line 22" x2="766" transform="translate(1011.5 767.5)" fill="none" stroke="#707070" stroke-width="0.4"/>
+      <line id="Line_23" data-name="Line 23" x2="766" transform="translate(1011.5 791.5)" fill="none" stroke="#707070" stroke-width="0.4"/>
+      <line id="Line_24" data-name="Line 24" x2="766" transform="translate(1011.5 815.5)" fill="none" stroke="#707070" stroke-width="0.4"/>
+      <line id="Line_25" data-name="Line 25" x2="766" transform="translate(1011.5 839.5)" fill="none" stroke="#707070" stroke-width="0.4"/>
+      <line id="Line_26" data-name="Line 26" x2="766" transform="translate(1011.5 863.5)" fill="none" stroke="#707070" stroke-width="0.4"/>
+      <line id="Line_27" data-name="Line 27" x2="766" transform="translate(1011.5 887.5)" fill="none" stroke="#707070" stroke-width="0.4"/>
+      <line id="Line_28" data-name="Line 28" x2="766" transform="translate(1011.5 911.5)" fill="none" stroke="#707070" stroke-width="0.4"/>
+      <line id="Line_29" data-name="Line 29" x2="766" transform="translate(1011.5 935.5)" fill="none" stroke="#707070" stroke-width="0.4"/>
+      <line id="Line_30" data-name="Line 30" x2="766" transform="translate(1011.5 959.5)" fill="none" stroke="#707070" stroke-width="0.4"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 837, 449)" filter="url(#Path_10)">
+      <path id="Path_10-2" data-name="Path 10" d="M122.982,30.932c66.527-22.3,40.736-55.048,214.689-61.654,51.838-1.969,92.05,53.974,205.882,61.654C599.445,34.7,648.539-22.989,710.9-30.722S767.225-12.93,793,0s21,21,21,21V171.5a21,21,0,0,1-21,21H21a21,21,0,0,1-21-21V110.2C0,98.6,56.455,53.233,122.982,30.932Z" transform="translate(149 325)" fill="rgba(150,114,248,0.52)"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 837, 449)" filter="url(#Path_11)">
+      <path id="Path_11-2" data-name="Path 11" d="M177.986-91.417c66.527-15.809-14.268,64.961,159.686,60.278C368.722-31.974,440.944,31,492.415,41.927s89.343-2.183,134.99,0C683.3,44.6,648.539-25.656,710.9-31.138S767.225-18.526,793-9.359,814,5.528,814,5.528V112.221c0,8.222-9.4,14.887-21,14.887H21c-11.6,0-21-6.665-21-14.887V68.766C0,60.544,111.458-75.607,177.986-91.417Z" transform="translate(149 390.39)" fill="#9672f8"/>
+    </g>
+  </g>
+</svg>

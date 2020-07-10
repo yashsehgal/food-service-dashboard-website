@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="425" height="379.5" viewBox="0 0 425 379.5">
+  <defs>
+    <filter id="Rectangle_9" x="0" y="0" width="425" height="379.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_14" x="44" y="76" width="338" height="228.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-2"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_8" x="44" y="136.469" width="338.148" height="168.031" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-3"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_23" x="241" y="96" width="127" height="91" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-4"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_69" data-name="Group 69" transform="translate(-386 -100)">
+    <g transform="matrix(1, 0, 0, 1, 386, 100)" filter="url(#Rectangle_9)">
+      <rect id="Rectangle_9-2" data-name="Rectangle 9" width="365" height="319.5" rx="21" transform="translate(30 20)" fill="#fff"/>
+    </g>
+    <text id="Today_s_Statistics" data-name="Today&apos;s Statistics" transform="translate(444 168)" fill="#444" font-size="24" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="0" y="0">Today&apos;s Statistics</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 386, 100)" filter="url(#Rectangle_14)">
+      <rect id="Rectangle_14-2" data-name="Rectangle 14" width="278" height="168.5" rx="21" transform="translate(74 96)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 386, 100)" filter="url(#Path_8)">
+      <path id="Path_8-2" data-name="Path 8" d="M79.838-43.1c21.163,0,16.992,3.3,75.518,0s42.083,13.3,67.494,24.071S232.719,2.208,257,2.208,278,9.4,278,21V43.5a21,21,0,0,1-21,21H21a21,21,0,0,1-21-21V21C0,9.4,34.619-43.1,79.838-43.1Z" transform="translate(74 200)" fill="#03b6ca"/>
+    </g>
+    <text id="_10_AM" data-name="10 AM" transform="translate(476 379)" fill="#444" font-size="10" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="0" y="0">10 AM</tspan></text>
+    <text id="_2_PM" data-name="2 PM" transform="translate(523 379)" fill="#444" font-size="10" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="0" y="0">2 PM</tspan></text>
+    <text id="_6_PM" data-name="6 PM" transform="translate(564 379)" fill="#444" font-size="10" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="0" y="0">6 PM</tspan></text>
+    <text id="_10_PM" data-name="10 PM" transform="translate(605 379)" fill="#444" font-size="10" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="0" y="0">10 PM</tspan></text>
+    <text id="_2_PM-2" data-name="2 PM" transform="translate(651 379)" fill="#444" font-size="10" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="0" y="0">2 PM</tspan></text>
+    <text id="_4_PM" data-name="4 PM" transform="translate(692 379)" fill="#444" font-size="10" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="0" y="0">4 PM</tspan></text>
+    <line id="Line_14" data-name="Line 14" y2="112" transform="translate(656.5 252.5)" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="5"/>
+    <g id="Group_39" data-name="Group 39" transform="translate(-451 14)">
+      <g transform="matrix(1, 0, 0, 1, 837, 86)" filter="url(#Rectangle_23)">
+        <rect id="Rectangle_23-2" data-name="Rectangle 23" width="67" height="31" rx="7" transform="translate(271 116)" fill="#fff"/>
+      </g>
+      <text id="Max_Profit" data-name="Max Profit" transform="translate(1114 216)" fill="#444" font-size="8" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="0" y="0">Max Profit</tspan></text>
+      <text id="_200" data-name="$200" transform="translate(1114 228)" fill="#03b6ca" font-size="10" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="0" y="0">$200</tspan></text>
+    </g>
+  </g>
+</svg>

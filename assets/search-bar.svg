@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="425" height="98.5" viewBox="0 0 425 98.5">
+  <defs>
+    <filter id="Rectangle_21" x="0" y="0" width="425" height="98.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-opacity="0.078"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="search-bar" transform="translate(-838 -13)">
+    <g id="Group_29" data-name="Group 29" transform="translate(11 -14)">
+      <g transform="matrix(1, 0, 0, 1, 827, 27)" filter="url(#Rectangle_21)">
+        <rect id="Rectangle_21-2" data-name="Rectangle 21" width="365" height="38.5" rx="19.25" transform="translate(30 20)" fill="#d4d4d4"/>
+      </g>
+      <text id="search" transform="translate(890 74)" fill="#fff" font-size="21" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="0" y="0">search</tspan></text>
+    </g>
+    <g id="Ellipse_8" data-name="Ellipse 8" transform="translate(1182 42)" fill="#d4d4d4" stroke="#fff" stroke-width="2">
+      <circle cx="7.5" cy="7.5" r="7.5" stroke="none"/>
+      <circle cx="7.5" cy="7.5" r="6.5" fill="none"/>
+    </g>
+    <line id="Line_16" data-name="Line 16" x2="8" y2="8" transform="translate(1195.5 54.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+  </g>
+</svg>
