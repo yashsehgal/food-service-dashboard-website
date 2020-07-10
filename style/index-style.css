@@ -1,0 +1,156 @@
+body {
+  margin-top: 20px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+header {
+  background-color: white;
+}
+
+#logo-text {
+  float: left;
+  width: 250px;
+  cursor: pointer;
+}
+
+#search-bar {
+  float: right;
+  width: 250px;
+  padding-right: 4em;
+  cursor: text;
+}
+
+#user-profile {
+  float: right;
+  width: 55px;
+  cursor: pointer;
+}
+
+#container-left {
+  position: absolute;
+}
+
+#customer-statistics-container {
+  float: left;
+}
+
+#customer-statistics-container #customer-stat-card {
+  float: left;
+  position: relative;
+  width: 300px;
+}
+
+#business-branch-card #branch-card {
+  width: 300px;
+  position: relative;
+}
+
+#middle-container {
+  padding-left: 21em;
+  position: absolute;
+  text-align: center;
+}
+
+#current-day-status-card {
+  float: right;
+  overflow: hidden;
+}
+
+#current-day-status-card #current-day-stat-card {
+  width: 250px;
+}
+
+#weekly-status-card {
+  float: right;
+  overflow: hidden;
+}
+
+#weekly-status-card #week-stat-card-image {
+  width: 250px;
+}
+
+#business-rating {
+  float: right;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -ms-flex-line-pack: center;
+      align-content: center;
+  overflow: hidden;
+}
+
+#business-rating #business-rating-card {
+  width: 250px;
+}
+
+#main-graph-image {
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
+  position: relative;
+  text-align: center;
+}
+
+#main-graph-image #main-graph {
+  width: 750px;
+  padding-left: 2em;
+}
+
+#right-container {
+  float: right;
+  padding-left: 70em;
+}
+
+#top-selling-card {
+  position: relative;
+  float: right;
+}
+
+#top-selling-card #top-selling-image {
+  position: relative;
+  width: 300px;
+}
+
+#current-order-card {
+  position: relative;
+  float: right;
+}
+
+#current-order-card #current-order-image {
+  position: relative;
+  width: 300px;
+}
+
+#current-delivery-time {
+  position: relative;
+  float: right;
+}
+
+#current-delivery-time #delivery-card-container {
+  position: relative;
+  width: 300px;
+}
+
+#income-card {
+  position: relative;
+  float: left;
+  padding-left: 8em;
+}
+
+#income-card #income-card-image {
+  position: relative;
+  width: 250px;
+}
+
+#sales-card {
+  position: relative;
+  float: left;
+  padding-left: 8em;
+}
+
+#sales-card #sales-card-image {
+  position: relative;
+  width: 200px;
+}
+/*# sourceMappingURL=index-style.css.map */
